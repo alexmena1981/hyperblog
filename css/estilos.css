@@ -1,6 +1,6 @@
 body {
   text-align: center;
-  font-family: 'Courier New', Courier, monospace;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: black;
 }
 #container {
@@ -10,8 +10,7 @@ body {
   border: 1px solid grey;
   margin: 0 auto;
 }
-#cabecera
-{
+#cabecera {
   background: blue;
   color: azure;
   font-weight: bold;
