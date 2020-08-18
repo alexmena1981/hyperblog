@@ -2,7 +2,6 @@ body {
   text-align: center;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: blue;
-  
 }
 #container {
   width: 70%;
@@ -21,4 +20,10 @@ body {
 
 #container h1 {
   font-size: 20px;
+}
+#footer {
+  background-color: brown;
+  color: whitesmoke;
+  text-align: center;
+  padding: 1em;
 }
