@@ -11,11 +11,12 @@ body {
   margin: 0 auto;
 }
 #cabecera {
-  background: blue;
+  background: blueviolet;
+  box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0, 5);
   color: azure;
   font-weight: bold;
   margin: 0;
-  padding: 0.5em;
+  padding: 0.5em 0 0.5em 2em;
 }
 
 #container h1 {
